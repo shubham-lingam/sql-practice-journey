@@ -49,7 +49,7 @@ The practice includes core and intermediate SQL concepts such as:
 
 ## 💻 Problem-Solving Approach
 
-Each problem requires understanding the business or analytical requirement before constructing the SQL query.
+Each problem requires understanding the analytical requirement before constructing the SQL query.
 
 My general approach is:
 
@@ -114,9 +114,9 @@ This folder is part of my **SQL Practice Journey**, documenting my SQL learning,
 * HackerRank
 * DataLemur
 * LeetCode
+* SQLZoo
 
 ---
 
 **Author:** L Shubham
 **Career Focus:** Data Analytics | SQL | Business Intelligence
-
