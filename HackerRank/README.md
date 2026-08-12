@@ -112,9 +112,9 @@ This folder is part of my **SQL Practice Journey**, where I document SQL learnin
 * HackerRank
 * DataLemur
 * LeetCode
+* SQLZoo
 
 ---
 
 **Author:** L Shubham
 **Career Focus:** Data Analytics | SQL | Business Intelligence
-
