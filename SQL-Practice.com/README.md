@@ -66,6 +66,7 @@ A screenshot documenting my SQL practice completion is included in this folder.
 The exercises were completed using:
 
 **SQL-Practice.com**
+
 https://www.sql-practice.com/
 
 ## 💼 Relevance to Data Analytics
@@ -98,7 +99,7 @@ This practice helped strengthen my ability to work with structured relational da
 
 ## 📂 Repository Context
 
-This folder is part of my **SQL Practice Journey**, documenting SQL learning, problem-solving, and completion achievements across multiple online platforms.
+This folder is part of my **SQL Practice Journey**, documenting SQL learning, problem-solving, and completion achievements across multiple platforms.
 
 ### Platforms Included
 
@@ -107,9 +108,9 @@ This folder is part of my **SQL Practice Journey**, documenting SQL learning, pr
 * HackerRank
 * DataLemur
 * LeetCode
+* SQLZoo
 
 ---
 
 **Author:** L Shubham
 **Career Focus:** Data Analytics | SQL | Business Intelligence
-
